@@ -33,8 +33,6 @@ class Rectangle {
   rect(positionX, positionY, sizeX, sizeY);
     fill(paint);
     rect(blueYellowX ,positionY, colorSize,sizeY);
-    fill(paint);
-    rect(blueYellowX, positionY, colorSize,sizeY);
     fill(grey);
     rect(greyX, positionY, colorSize, sizeY);
   }
